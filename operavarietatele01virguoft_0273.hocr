@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operavarietatele01virguoft/operavarietatele01virguoft_0273.png"; bbox 0 0 1987 3361; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 301 1349 1248 1408">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 301 1349 1248 1408">
+     <span class='ocr_line' id='line_1_1' title="bbox 301 1349 1248 1408; baseline 0.007 -7"><span class='ocrx_word' id='word_1_1' title='bbox 301 1349 361 1402; x_wconf 91' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 417 1350 787 1406; x_wconf 88' lang='lat' dir='ltr'><strong>VIRGILII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 849 1354 1248 1408; x_wconf 89' lang='lat' dir='ltr'>MARONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 131 1502 1429 1598">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 131 1502 1429 1598">
+     <span class='ocr_line' id='line_1_2' title="bbox 131 1502 1429 1598; baseline 0.011 -13"><span class='ocrx_word' id='word_1_4' title='bbox 131 1502 1429 1598; x_wconf 86' lang='lat' dir='ltr'><strong>BUCOLICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
